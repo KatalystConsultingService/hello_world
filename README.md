@@ -4,6 +4,6 @@ Welcome to the team! This repository is purposely for bringing new devs up to sp
 
 ---
 
-## File Structure
+## File Structures
 
  1. **Github** - includes the necessary instruction for github
